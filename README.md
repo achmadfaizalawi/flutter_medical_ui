@@ -1,16 +1,14 @@
-# flutter_medical_ui
+# Flutter Medical UI
 
-A new Flutter project.
+This is the **development/v1** branch, the improvements that have been made include:
 
-## Getting Started
+1. Creating a start page that contains a brief explanation of the application.
+2. Creating a home page that contains the user's name and a list of available doctors.
 
-This project is a starting point for a Flutter application.
+## Reference
 
-A few resources to get you started if this is your first Flutter project:
+In the UI slicing process I took design references from the [YouTube](https://youtu.be/u3Fq3xZqpz4?si=bYlf_sRbPohHBiWW) platform.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Preview UI Image
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/achmadfaizalawi/flutter_medical_ui/blob/development/v1/assets/preview_ui_images/started_page.png?raw=true" width="400" height="800"/> <img src="https://github.com/achmadfaizalawi/flutter_medical_ui/blob/development/v1/assets/preview_ui_images/home_page.png?raw=true" width="400" height="800"/> 
