@@ -11,4 +11,4 @@ In the UI slicing process I took design references from the [YouTube](https://yo
 
 ## Preview UI Image
 
-<img src="https://github.com/achmadfaizalawi/flutter_medical_ui/blob/development/v1/assets/preview_ui_images/started_page.png?raw=true" width="400" height="800"/> <img src="https://github.com/achmadfaizalawi/flutter_medical_ui/blob/development/v1/assets/preview_ui_images/home_page.png?raw=true" width="400" height="800"/> 
+A preview of the UI image can be seen at [Preview UI Images]()
